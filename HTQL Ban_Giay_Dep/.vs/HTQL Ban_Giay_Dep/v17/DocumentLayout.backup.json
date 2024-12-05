@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\project\\htql ban_giay_dep\\htql ban_giay_dep\\formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|solutionrelative:htql ban_giay_dep\\formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\project\\htql ban_giay_dep\\htql ban_giay_dep\\formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|solutionrelative:htql ban_giay_dep\\formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\project\\htql ban_giay_dep\\htql ban_giay_dep\\ham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|solutionrelative:htql ban_giay_dep\\ham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\project\\htql ban_giay_dep\\htql ban_giay_dep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D48496B-5ED6-49A0-B8E6-E16E2ED04761}|HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep.csproj|solutionrelative:htql ban_giay_dep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 346,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLapHoaDon.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\FormLapHoaDon.cs",
+              "RelativeDocumentMoniker": "HTQL Ban_Giay_Dep\\FormLapHoaDon.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\FormLapHoaDon.cs",
+              "RelativeToolTip": "HTQL Ban_Giay_Dep\\FormLapHoaDon.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAawMQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:34:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ham.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\Ham.cs",
+              "RelativeDocumentMoniker": "HTQL Ban_Giay_Dep\\Ham.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\Ham.cs",
+              "RelativeToolTip": "HTQL Ban_Giay_Dep\\Ham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:31:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\Program.cs",
+              "RelativeDocumentMoniker": "HTQL Ban_Giay_Dep\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\Program.cs",
+              "RelativeToolTip": "HTQL Ban_Giay_Dep\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:28:20.083Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "aeff03d2-49bb-4a80-b23f-778c9831d6fe",
+        "Display": 1,
+        "X": -539,
+        "Y": 892,
+        "Width": 1788,
+        "Height": 938,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLapHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\FormLapHoaDon.cs",
+              "RelativeDocumentMoniker": "HTQL Ban_Giay_Dep\\FormLapHoaDon.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng\\Project\\HTQL Ban_Giay_Dep\\HTQL Ban_Giay_Dep\\FormLapHoaDon.cs [Design]",
+              "RelativeToolTip": "HTQL Ban_Giay_Dep\\FormLapHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:34:34.242Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

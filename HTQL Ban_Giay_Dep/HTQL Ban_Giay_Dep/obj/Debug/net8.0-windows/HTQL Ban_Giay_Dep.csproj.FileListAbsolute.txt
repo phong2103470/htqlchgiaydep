@@ -1,0 +1,70 @@
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.exe
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.deps.json
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.runtimeconfig.json
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.pdb
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.csproj.GenerateResource.cache
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.AssemblyInfoInputs.cache
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.AssemblyInfo.cs
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.csproj.CoreCompileInputs.cache
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\refint\HTQL Ban_Giay_Dep.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.pdb
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.genruntimeconfig.cache
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\ref\HTQL Ban_Giay_Dep.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormDangNhap.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormNhanVien.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_KhachHang.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.Properties.Resources.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_NhanVien.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_KH_NV.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_LoaiSanPham.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_SanPham.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormTimHoaDon.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormLapHoaDon.resources
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.csproj.AssemblyReference.cache
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban.96C8BEDC.Up2Date
+D:\Lập trình ứng dụng\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormThongKe.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.exe
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.deps.json
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.runtimeconfig.json
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\HTQL Ban_Giay_Dep.pdb
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.csproj.AssemblyReference.cache
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormDangNhap.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormLapHoaDon.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormNhanVien.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_KhachHang.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_KH_NV.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_LoaiSanPham.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_NhanVien.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormQuanLy_SanPham.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormThongKe.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.FormTimHoaDon.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL_Ban_Giay_Dep.Properties.Resources.resources
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.csproj.GenerateResource.cache
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.AssemblyInfoInputs.cache
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.AssemblyInfo.cs
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.csproj.CoreCompileInputs.cache
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban.96C8BEDC.Up2Date
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\refint\HTQL Ban_Giay_Dep.dll
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.pdb
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\HTQL Ban_Giay_Dep.genruntimeconfig.cache
+D:\Project\HTQL Ban_Giay_Dep\HTQL Ban_Giay_Dep\obj\Debug\net8.0-windows\ref\HTQL Ban_Giay_Dep.dll
